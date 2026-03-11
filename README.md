@@ -10,12 +10,12 @@
 
 - 🔭 **Currently Architecting:**
   - 🔹 **Edemy:** A full-stack Learning Management System (LMS) with secure authentication and state management.
-  - 🔹 **LocalSkillX:** A service marketplace platform optimizing local lead flows and user dashboards.
+  - 🔹 **Multi-vendor-ecommerce:** A service marketplace platform optimizing local lead flows and user dashboards.
   - 🔹 **Interactive UI Portfolios:** Implementing advanced GSAP and Framer Motion for high-performance rendering.
 
 - 🌱 **Core Focus:** Building production-grade applications using the **MERN Stack** (MongoDB, Express, React, Node.js), transitioning to **Next.js/Prisma** for SSR, and mastering core JavaScript fundamentals.
 
-- 🎓 **Academics:** Pursuing a **Hybrid MCA** (IIT Patna & IIIT Ranchi) to solidify advanced computer science fundamentals and system design.
+- 🎓 **Academics:** Pursuing a **BCA** (IGNOU) to solidify advanced computer science fundamentals and system design.
 
 - 📫 **Contact:** Open for SDE opportunities, code reviews, and technical collaborations.
 
@@ -45,7 +45,7 @@
 |--------|-------------|
 | [Edemy LMS](https://edemy-frontend-gilt.vercel.app) | Full-stack learning platform with modular React components, API integration, and user state management. |
 | [SRK Interiors](https://srk-interior-decorators.vercel.app) | High-performance interior agency portfolio leveraging smooth Framer Motion rendering and optimized assets. |
-| **LocalSkillX** *(In Development)* | Local worker service platform featuring a custom dashboard and scalable database schemas using Prisma. |
+| **Multi-vendor-ecommerce** *(In Development)* | Multivendor Ecommerce Site using MERN Stack. |
 
 ---
 
