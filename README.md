@@ -44,7 +44,7 @@
 | System Architecture | Description |
 |--------|-------------|
 | [Edemy LMS](https://edemy-frontend-gilt.vercel.app) | Full-stack learning platform with modular React components, API integration, and user state management. |
-| [SRK Interiors](https://srk-interior-decorators.vercel.app) | High-performance interior agency portfolio leveraging smooth Framer Motion rendering and optimized assets. |
+| [SRK Interiors](https://skinteriors-decorators.netlify.app/) | High-performance interior agency portfolio leveraging smooth Framer Motion rendering and optimized assets. |
 | **Multi-vendor-ecommerce** *(In Development)* | Multivendor Ecommerce Site using MERN Stack. |
 
 ---
